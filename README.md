@@ -55,7 +55,7 @@ Concluí! é um aplicativo web de gerenciamento de tarefas desenvolvido em React
 
 <div style="display: flex; gap: 10px; justify-content: center;">
   <img src="src/imagens/tela 1.png" alt="Screenshot do aplicativo Concluí!" style="width: 45%; max-width: 300px; height: auto;"/>
-  <img src="src/imagens/tela2.png" alt="Screenshot do aplicativo Concluí!" style="width: 45%; max-width: 300px; height: auto;"/>
+  <img src="src/imagens/tela 2.png" alt="Screenshot do aplicativo Concluí!" style="width: 45%; max-width: 300px; height: auto;"/>
 </div>
 
 ## 📈 Melhorias Futuras
