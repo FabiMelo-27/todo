@@ -1,0 +1,18 @@
+/* criar todo css base que vai usado em todo projeto */
+html{
+ 
+  /* background: linear-gradient(195deg, rgb(234, 185, 201) 0%, rgb(246, 162, 190) 98%); */
+
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+
+   background-image: url("background.jpg"); /* se estiver em public/ */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* faz o fundo ficar fixo ao rolar */
+}
