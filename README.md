@@ -79,7 +79,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 **Fabíola Gaspar**  
 - LinkedIn: [Fabíola Melo](https://linkedin.com/in/fabiola-melo-6a285a1bb)
 - GitHub: [FabiMelo-27](https://github.com/FabiMelo-27)
-- Email: fabiola.g.melo@outlook.com
+
 
 ---
 
